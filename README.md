@@ -143,7 +143,7 @@ Now! One last thing to note! Since all widgets are resolved through the Laravel'
 
 #### Practical Example
 
-An good example, would be fetching the 5 recently registered users. 
+A good example, would be fetching the 5 recently registered users. 
 ```php
 <?php namespace App\Widgets;
 
